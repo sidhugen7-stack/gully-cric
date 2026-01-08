@@ -1,0 +1,7 @@
+{
+  "name": "GULLY CRICKET ASSOCIATION",
+  "description": "The official high-performance cricket scoring and analytics platform for the GULLY CRICKET ASSOCIATION, featuring live ball-by-ball scoring and detailed player statistics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
